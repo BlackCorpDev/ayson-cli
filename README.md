@@ -20,6 +20,7 @@ ayson-cli is a Python-based solution designed to resolve shortened links from va
 - Python 3.x installed on your system
 - Termux environment set up on your Android device
 
+
 ### Installation
 1. Clone the repository using `git clone https://github.com/BlackCorpDev/ayson-cli/`
 2. Navigate to the project directory using `cd ayson-cli`
@@ -27,9 +28,9 @@ ayson-cli is a Python-based solution designed to resolve shortened links from va
 
 ### Running Locally
 1. Run the script using `python ayson_v1_1.py --install`
-2. You can now use it as ayson '<URL>'
+2. You can now use it as `ayson '<URL>'`
 3. Follow the command-line interface prompts to input URLs and resolve links
-4. To see all commands, use ayson --help 
+4. To see all commands, use `ayson --help` 
 
 ## 📂 Project Structure
 ```markdown
@@ -41,8 +42,21 @@ ayson-cii/
 └── ...
 ```
 
-## 📸 Screenshots
 
+---
+
+## 🛠 Developed by Black Corp
+
+**Ayson CLI** is developed under the Black Corp organization to modernize system automation and link resolving workflows.
+
+### 🌐 About Black Corp
+Black Corp is a software community dedicated to developing performance-oriented, minimalist open-source solutions.
+
+- **GitHub:** [https://github.com/BlackCorpDev](https://github.com/BlackCorpDev)
+- **Vision:** To simplify complex processes through professional terminal-based tools.
+
+> *Powered by Black Corp - Efficiency at the Core.*
+> 
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
 
