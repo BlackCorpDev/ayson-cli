@@ -1,5 +1,5 @@
-# 🌟 Link Resolver Project ayson-cli 🌟
-The Link Resolver Project is a Python-based solution designed to resolve shortened links from various services, including ay.live, aylink.co, cpmlink.pro, ouo.io, and ouo.press. This project aims to navigate through the redirection chain and extract the final URL, bypassing intermediate pages and CAPTCHA challenges. The core functionality involves sending HTTP requests to the link shortening services, parsing the responses, and following redirections until the final URL is obtained.
+# 🌟  AYSON-CLİ 🌟
+ayson-cli is a Python-based solution designed to resolve shortened links from various services, including ay.live, aylink.co, cpmlink.pro, ouo.io, and ouo.press. This project aims to navigate through the redirection chain and extract the final URL, bypassing intermediate pages and CAPTCHA challenges. The core functionality involves sending HTTP requests to the link shortening services, parsing the responses, and following redirections until the final URL is obtained.
 
 ## 🚀 Key Features
 - Resolves shortened links from multiple services
