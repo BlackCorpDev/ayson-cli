@@ -1,4 +1,4 @@
-# 🌟 Link Resolver Project 🌟
+# 🌟 Link Resolver Project ayson-cli 🌟
 The Link Resolver Project is a Python-based solution designed to resolve shortened links from various services, including ay.live, aylink.co, cpmlink.pro, ouo.io, and ouo.press. This project aims to navigate through the redirection chain and extract the final URL, bypassing intermediate pages and CAPTCHA challenges. The core functionality involves sending HTTP requests to the link shortening services, parsing the responses, and following redirections until the final URL is obtained.
 
 ## 🚀 Key Features
@@ -21,17 +21,19 @@ The Link Resolver Project is a Python-based solution designed to resolve shorten
 - Termux environment set up on your Android device
 
 ### Installation
-1. Clone the repository using `git clone https://github.com/your-repo/link-resolver.git`
-2. Navigate to the project directory using `cd link-resolver`
+1. Clone the repository using `git clone https://github.com/BlackCorpDev/ayson-cli/`
+2. Navigate to the project directory using `cd ayson-cli`
 3. Install the required dependencies using `pip install -r requirements.txt`
 
 ### Running Locally
-1. Run the script using `python ayson_v1_1.py`
-2. Follow the command-line interface prompts to input URLs and resolve links
+1. Run the script using `python ayson_v1_1.py --install`
+2. You can now use it as ayson '<URL>'
+3. Follow the command-line interface prompts to input URLs and resolve links
+4. To see all commands, use ayson --help 
 
 ## 📂 Project Structure
 ```markdown
-link-resolver/
+ayson-cii/
 │
 ├── ayson_v1_1.py
 ├── requirements.txt
@@ -48,9 +50,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 📬 Contact
-For questions or concerns, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For questions or concerns, please contact us at [karapinarahmet33@gmail.com](mailto:your-email@example.com).
 
 ## 💖 Thanks Message
 A huge thank you to all the contributors and users of this project! Your support and feedback are greatly appreciated.
-
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/)
