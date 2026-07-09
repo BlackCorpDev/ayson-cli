@@ -1,12 +1,16 @@
-<p align="center">⚡ AYSon CLI</p>
+# <p align="center">⚡ AYSon CLI</p>
 
 <p align="center">
 A lightweight command-line tool for bypassing supported short-link services.
-</p><p align="center">"Python" (https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Platform" (https://img.shields.io/badge/Platform-CLI-black?style=for-the-badge)
-"Status" (https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+</p>
 
-</p>---
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-CLI-black?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+</p>
 
 🚀 Features
 
